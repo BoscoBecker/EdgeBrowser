@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/28 10:09:51.000.420,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/03/28 10:09:51.000.492,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/03/28 10:15:07.000.270,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/03/28 10:15:07.000.204,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/04/13 17:51:39.000.880,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/04/13 17:51:39.000.794,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/04/13 17:54:05.000.868,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Joao\Projetos\C++\C++Browser\UBrowser.cpp</Transaction>
+    <Transaction>2022/04/13 17:54:05.000.868,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Joao\Projetos\C++\C++Browser\UBrowser.dfm</Transaction>
+    <Transaction>2022/04/13 17:54:05.000.868,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Joao\Projetos\C++\C++Browser\UBrowser.h</Transaction>
+    <Transaction>2022/04/13 17:54:16.000.128,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Joao\Projetos\C++\C++Browser\Browser.h</Transaction>
+    <Transaction>2022/04/13 17:54:23.000.105,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Joao\Projetos\C++\C++Browser\CBrowser.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
